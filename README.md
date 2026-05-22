@@ -20,7 +20,7 @@ Learning Kotlin fundamentals for Android development.
 - Sealed Class
 - High Order Function
 - Type Casting
-- 
+- Coroutines Basics
 
 ## Goal
 
