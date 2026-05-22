@@ -19,6 +19,8 @@ Learning Kotlin fundamentals for Android development.
 - Lazy
 - Sealed Class
 - High Order Function
+- Type Casting
+- 
 
 ## Goal
 
