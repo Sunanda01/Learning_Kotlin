@@ -13,6 +13,8 @@ Learning Kotlin fundamentals for Android development.
 - OOP
 - Scopes (let, apply, also, run, with)
 - Interface
+- Companion Object
+- 
 
 ## Goal
 
