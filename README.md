@@ -17,6 +17,8 @@ Learning Kotlin fundamentals for Android development.
 - Extension Function
 - Lateinit
 - Lazy
+- Sealed Class
+- 
 
 ## Goal
 
