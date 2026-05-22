@@ -10,3 +10,6 @@ fun main() {
     val incremented = input.toIntOrNull()?.inc()
     println("Incremented Number = $incremented")
 }
+
+class `8Scopes` {
+}
