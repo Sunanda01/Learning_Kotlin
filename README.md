@@ -15,7 +15,8 @@ Learning Kotlin fundamentals for Android development.
 - Interface
 - Companion Object
 - Extension Function
-- 
+- Lateinit
+- Lazy
 
 ## Goal
 
