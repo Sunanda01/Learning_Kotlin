@@ -18,7 +18,7 @@ Learning Kotlin fundamentals for Android development.
 - Lateinit
 - Lazy
 - Sealed Class
-- 
+- High Order Function
 
 ## Goal
 
