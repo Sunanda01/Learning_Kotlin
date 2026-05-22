@@ -43,10 +43,10 @@ fun main(){
     println(result)
 
     // 5. with : used for Work on object multiple times
-    with(binding) {
-        text.text = "Hello"
-        button.isEnabled = true
-    }
+//    with(binding) {
+//        text.text = "Hello"
+//        button.isEnabled = true
+//    }
     // "Inside this block, treat binding as current object"
 
     // Without with

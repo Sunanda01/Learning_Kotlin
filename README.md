@@ -11,6 +11,8 @@ Learning Kotlin fundamentals for Android development.
 - Functions
 - Lambdas
 - OOP
+- Scopes (let, apply, also, run, with)
+- Interface
 
 ## Goal
 
